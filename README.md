@@ -2,8 +2,13 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning fullstack Web Development
 - 💞️ I’m looking to collaborate on blockchain projects
-- 📫 hammad.bhatti@hotmail.com
+- Find out more about me & feel free to connect with me here:
 
+[![Linkedin Badge](https://img.shields.io/badge/-HammadBhatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammad-bhatti-6a679b155/)](https://www.linkedin.com/in/hammad-bhatti-6a679b155/)
+[![Gmail Badge](https://img.shields.io/badge/-hammadBhatti-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hammad.bhatti1996@gmail.com)](mailto:hammad.bhatti1996@gmail.com)
+
+
+## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
