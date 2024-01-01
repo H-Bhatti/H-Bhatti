@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @H-Bhatti
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning fullstack Web Development
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👋 Hi, I’m H-Bhatti
 - Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-HammadBhatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammad-bhatti-6a679b155/)](https://www.linkedin.com/in/hammad-bhatti-6a679b155/)
